@@ -1,0 +1,31 @@
+_repo: Sorella-di-Messalina_43115
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vivanti, Annie
+    aliases:
+    - Chartres, Annie Vivanti
+    - Vivanti, Anna
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '37364'
+    url: http://www.gutenberg.org/2009/agents/37364
+    wikipedia: http://it.wikipedia.org/wiki/Annie_Vivanti
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43115'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: '...Sorella di Messalina: Romanzo'
+url: http://www.gutenberg.org/ebooks/43115
